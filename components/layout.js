@@ -12,8 +12,8 @@ export default function Layout({ children, home }) {
 			<Head>
 				<link rel="icon" href="/favicon.ico" />
 				<meta
-					name="description"
-					content="Learn how to build a personal website using Next.js"
+					name="Rita's blog in Next.js"
+					content="A little experiment with Next.js"
 				/>
 				<meta
 					property="og:image"
